@@ -6,7 +6,7 @@
 * Implementasi collectionview pada swift
 
 
-#### WG
+#### VG
 ---
 ###### 03/04/2017
 * (cont.) Implementasi syntax query untuk mengambil data dari BigQuery
