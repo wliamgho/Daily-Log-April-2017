@@ -5,6 +5,9 @@
 	* Cara sinkronisasi akun dengan sosial media (Facebook, Twitter, Google)
 * Implementasi collectionview pada swift
 
+###### 04/04/2017
+* Pemahaman dan Implementasi Tab bar pada swift
+* (cont.) Memperbarui dan implementasi requesting json object pada swift
 
 #### VG
 ---
