@@ -9,6 +9,10 @@
 #### VG
 ---
 ###### 03/04/2017
-* (cont.) Implementasi syntax query untuk mengambil data dari BigQuery
+* (cont.) Implementasi query untuk mengambil data dari BigQuery
 * (cont.) Implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
+
+###### 04/04/2017
+* (cont.) Memperbarui dan implementasi query untuk mengambil data dari BigQuery
+* (cont.) Memperbarui dan implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
 
