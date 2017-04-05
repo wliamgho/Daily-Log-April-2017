@@ -9,6 +9,9 @@
 * Pemahaman dan Implementasi Tab bar pada swift
 * (cont.) Memperbarui dan implementasi requesting json object pada swift
 
+###### 05/04/2017
+* (cont.) Memperbarui dan implementasi requesting json object pada swift
+
 #### VG
 ---
 ###### 03/04/2017
