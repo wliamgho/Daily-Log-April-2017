@@ -22,3 +22,7 @@
 * (cont.) Memperbarui dan implementasi query untuk mengambil data dari BigQuery
 * (cont.) Memperbarui dan implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
 
+###### 05/04/2017
+* (cont.) Memperbarui dan implementasi query untuk mengambil data dari BigQuery
+* (cont.) Memperbarui dan implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
+
