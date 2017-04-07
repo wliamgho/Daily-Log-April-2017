@@ -15,6 +15,10 @@
 ###### 06/04/2017
 * (cont.) Memperbarui dan implementasi requesting json object pada swift
 
+###### 07/04/2017
+* Pemahaman mengenai collectionview pada swift
+* Pemahaman dalam penggunaan NSCache loading video pada swift
+
 #### VG
 ---
 ###### 03/04/2017
