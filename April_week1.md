@@ -37,4 +37,6 @@
 * Mengerjakan task dari project untuk mengambil data statistik video dari Youtube Data API
 * Mengerjakan task dari project untuk menyimpan data statistik video ke MongoDB
 
+###### 07/04/2017
+* Mengerjakan task untuk membuat docker image dari project video_data yang dikerjakan
 
