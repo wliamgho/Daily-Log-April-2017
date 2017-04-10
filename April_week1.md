@@ -33,3 +33,8 @@
 * (cont.) Memperbarui dan implementasi query untuk mengambil data dari BigQuery
 * (cont.) Memperbarui dan implementasi operation pada MongoDB untuk menyimpan results dari BigQuery
 
+###### 06/04/2017
+* Mengerjakan task dari project untuk mengambil data statistik video dari Youtube Data API
+* Mengerjakan task dari project untuk menyimpan data statistik video ke MongoDB
+
+
