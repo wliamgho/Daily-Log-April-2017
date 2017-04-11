@@ -39,3 +39,22 @@
 
 ###### 07/04/2017
 * Mengerjakan task untuk membuat docker image dari project video_data yang dikerjakan
+
+#### WG
+---
+###### 03/04/2017
+* Menarik data statistik pada youtube dengan menggunakan requests
+
+###### 04/04/2017
+* Mengambil data statistik dengan menggunakan parameter id yang disediakan
+* Membaca dokumentasi mongodb untuk melakukan save 
+
+###### 05/04/2017
+* Mengimplementasikan save data ke mongodb dengan menggunakan bulk
+
+###### 06/04/2017
+* (continue) Membenarkan kesalahan penarikan data statistik pada video yang tidak memiliki data statistik
+
+###### 07/04/2017
+* Mempelajari docker-compose dan docker-file seperti membuat image dan mempelajari konsep-konsepnya
+* Menjalankan docker dengan docker-compose up untuk suatu proyek
