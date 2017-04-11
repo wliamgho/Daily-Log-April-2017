@@ -39,4 +39,3 @@
 
 ###### 07/04/2017
 * Mengerjakan task untuk membuat docker image dari project video_data yang dikerjakan
-
