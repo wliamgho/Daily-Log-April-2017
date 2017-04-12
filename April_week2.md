@@ -15,6 +15,9 @@
 ###### 11/04/2017
 * (cont.) Mengerjakan task untuk membuat docker image dari project video_data yang dikerjakan
 
+###### 12/04/2017
+* Mengerjakan task dari project classifier yaitu pengumpulan data (sensitive articles)
+
 
 #### WG
 ---
