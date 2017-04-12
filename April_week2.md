@@ -14,3 +14,15 @@
 
 ###### 11/04/2017
 * (cont.) Mengerjakan task untuk membuat docker image dari project video_data yang dikerjakan
+
+
+#### WG
+---
+###### 11/04/2017
+* Mempelajari tentang pengambilan data menggunakan BeautifulSoup
+* Mempelajari algoritma Klasifier seperti svm, random forest, dan lain-lain
+
+###### 12/04/2017
+* Mengerjakan project (Membersihkan data secara manual)
+* (continue) Mempelajari tentang pengambilan data menggunakan BeautifulSoup
+
