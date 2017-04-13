@@ -9,6 +9,8 @@
  ###### 12/04/2017
  * Pengerjaan video feature pada kurio app
 
+ ###### 13/04/2017
+ * Pengerjaan video feature pada kurio app
 
 #### VG
 ---
