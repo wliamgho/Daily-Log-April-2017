@@ -1,5 +1,11 @@
 #### WL
 ---
+###### 17/04/2017
+* Mengerjakan video detail pada kurio apps
+
+###### 18/04/2017
+* Mengerjakan video detail pada kurio apps
+
 
 #### VG
 ---
