@@ -36,3 +36,6 @@
 * Mengerjakan project (Membersihkan data secara manual)
 * (continue) Mempelajari tentang pengambilan data menggunakan BeautifulSoup
 
+###### 13/04/2017
+* (continue) Mengerjakan project (Membersihkan data secara manual)
+* Melanjutkan course python OOP dan Functional Programming
