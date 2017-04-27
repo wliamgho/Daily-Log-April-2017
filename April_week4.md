@@ -14,3 +14,9 @@
 
 #### WG
 ---
+###### 25/04/2017
+* Mengerjakan project (Membersihkan data secara manual) non-sensitive articles
+
+###### 27/04/2017
+* (continue) Mengerjakan project (Membersihkan data secara manual) non-sensitive articles
+
