@@ -14,6 +14,9 @@
 ###### 27/04/2017
 * (cont.) Mengerjakan task pengumpulan data (nonsensitive articles) untuk project classifier
 
+###### 28/04/2017
+* (cont.) Mengerjakan task pengumpulan data (nonsensitive articles) untuk project classifier
+
 
 #### WG
 ---
